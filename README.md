@@ -37,7 +37,7 @@ A curated list of awesome free online brain games, IQ tests, and cognitive train
 | [Sudoku.com](https://sudoku.com/) | Classic number puzzle | ✅ Free |
 | [Chess.com Puzzles](https://www.chess.com/puzzles) | Chess tactics training | Freemium |
 | [2048](https://play2048.co/) | Addictive number sliding puzzle | ✅ Free |
-
+| [Play Meowdoku](https://playmeowdoku.com) | Free browser cat logic puzzle (one cat per region; no shared row/column; no diagonal touch) | ✅ Free |
 ## Math & Calculation
 
 | Game | Description | Free? |
