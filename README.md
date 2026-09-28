@@ -28,6 +28,7 @@ A curated list of awesome free online brain games, IQ tests, and cognitive train
 | ⭐ [Memory Matrix — IQ Game](https://iqgame.online/game1-memory-matrix.html) | Remember and recall grid patterns under time pressure | ✅ Free |
 | [Memozor](https://www.memozor.com/) | Collection of free memory games (matching pairs) | ✅ Free |
 | [Lumosity](https://www.lumosity.com/) | Popular brain training app with memory exercises | Freemium |
+| [Dual N-Back](https://www.mindskillsarcade.com/games/dual-n-back) | Working-memory n-back trainer with adjustable N and a plain-English research summary | ✅ Free |
 
 ## Logic & Puzzle Games
 
