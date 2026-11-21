@@ -53,6 +53,7 @@ A curated list of awesome free online brain games, IQ tests, and cognitive train
 | ⭐ [Attention Focus — IQ Game](https://iqgame.online/game9-attention-focus.html) | Test your visual attention and focus | ✅ Free |
 | [Human Benchmark](https://humanbenchmark.com/) | Reaction time, memory, and other cognitive tests | ✅ Free |
 | [AIM Trainer](https://aimtrainer.io/) | Mouse accuracy and reaction training | ✅ Free |
+| [ReflexTimer](https://reflextimer.com/) | Free reaction time, CPS, and aim tests with a documented method | ✅ Free |
 
 ## Spatial Reasoning
 
